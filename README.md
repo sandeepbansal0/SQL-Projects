@@ -1,3 +1,3 @@
 # SQL Projects & Code 
 
-<iframe src="docs/YourFile.pdf" width="100%" height="800"></iframe>
+[![SQL Projects PDF](docs/pdf-thumbnail.png)](https://github.com/sandeepbansal0/SQL-Projects/blob/main/SQL%20Projects.pdf)
