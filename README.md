@@ -1,3 +1,3 @@
 # SQL Projects & Code 
 
-[![SQL Projects PDF](docs/pdf-thumbnail.png)](https://github.com/sandeepbansal0/SQL-Projects/blob/main/SQL%20Projects.pdf)
+[SQL Portfolio_ Sandeep Bansal.pdf](https://github.com/sandeepbansal0/SQL-Projects/blob/b515978a27a8c3a965d80ae0a823a39f733731fb/SQL%20Portfolio_%20Sandeep%20Bansal.pdf)
